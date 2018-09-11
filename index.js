@@ -12,7 +12,7 @@ return animal;
 
 
 function yourAnimal() {
-  
+  var animal = 'cat'
   return animal;
 }
 
